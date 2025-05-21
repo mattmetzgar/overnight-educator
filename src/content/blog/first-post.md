@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Book Release"
 description: "Book release"
-pubDate: "May 19 2022"
+pubDate: "May 19 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
