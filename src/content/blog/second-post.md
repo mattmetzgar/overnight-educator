@@ -2,15 +2,17 @@
 title: "AI Resources"
 description: "AI Resources for Teaching"
 pubDate: "May 21 2025"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: 
 ---
 
-Here is a list of some of the latest AI tools for teaching.
+<p>As AI continues to reshape the classroom, a new generation of tools is making it easier than ever for educators and students to collaborate, create, and assess learning in innovative ways. Here’s a roundup of seven cutting-edge platforms transforming education today:</p>
+<ul>
+  <li><a href="https://boodlebox.ai/">BoodleBox</a> – A collaborative workspace where students can team up on AI projects in real time.</li>
+  <li><a href="https://otter.ai/">Otter</a> – Automated speech-to-text for searchable, shareable notes and streamlined communication.</li>
+  <li><a href="https://www.napkin.ai/">Napkin</a> – Generative AI that instantly produces custom visuals, diagrams, and illustrations.</li>
+  <li><a href="https://www.heygen.com/">HeyGen</a> – Create lifelike digital twins for presentations, tutorials, or virtual assistants.</li>
+  <li><a href="https://elevenlabs.io/">Eleven Labs</a> – Turn any text into a natural-sounding, AI-generated podcast or narration.</li>
+  <li><a href="https://www.timelygrader.ai/">Timely Grader</a> – AI-assisted grading and feedback for open-ended assignments, delivered in seconds.</li>
+  <li><a href="https://notebooklm.google/">Google Notebook LM</a> – An AI research assistant built into your note-taking workflow for summarizing sources and brainstorming ideas.</li>
+</ul>
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
-
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
