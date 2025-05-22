@@ -2,7 +2,7 @@
 title: "AI Resources"
 description: "AI Resources for Teaching"
 pubDate: "May 21 2025"
-heroImage: ""
+# heroImage: ""
 ---
 
 <p>As AI continues to reshape the classroom, a new generation of tools is making it easier than ever for educators and students to collaborate, create, and assess learning in innovative ways. Here’s a roundup of seven cutting-edge platforms transforming education today:</p>
