@@ -6,6 +6,7 @@ heroImage: ""
 ---
 
 In today’s rapidly evolving educational landscape, instructors need a clear, actionable roadmap to integrate AI into their teaching practice—and the Five-Step Cycle from The Overnight AI Educator delivers just that.
+<img src="AI-Enhanced Teaching Cycle - visual.png" alt="Five-step Cycle" />
 
 First, Research Current Skills in Demand: Begin by working backwards from the competencies employers are seeking—using AI tools to analyze job postings, future-of-work reports, and societal needs—to identify the most critical skills students must master 
 .
