@@ -94,7 +94,7 @@ const postsWithContent = await Promise.all(
     {
         postsWithContent.map((post) => (
             <li>
-                {/* <img width={720} height={360} src={post.data.heroImage} alt="" /> */}
+                <img width={720} height={360} src={post.data.heroImage} alt="" />
                 <h4 class="title my-10">{post.data.title}</h4>
                 <p class="date">
                     <FormattedDate date={post.data.pubDate} />
