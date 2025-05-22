@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/",
+    "/_astro/*",
+    "/.assetsignore",
+    "/aiteachingcycle.png",
+    "/blog-placeholder-1.jpg",
+    "/blog-placeholder-2.jpg",
+    "/blog-placeholder-3.jpg",
+    "/blog-placeholder-4.jpg",
+    "/blog-placeholder-5.jpg",
+    "/blog-placeholder-about.jpg",
+    "/favicon.png",
+    "/metzgar-photo-uncc-2025.jpg",
+    "/OvernightAIEducator_MM.png",
+    "/WebsiteLogo-Overnight.png",
+    "/fonts/atkinson-bold.woff",
+    "/fonts/atkinson-regular.woff",
+    "/rss.xml",
+    "/about",
+    "/events",
+    "/resources/*"
+  ]
+}
