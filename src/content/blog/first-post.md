@@ -2,7 +2,7 @@
 title: "Upcoming Book Release"
 description: "Book release"
 pubDate: "May 19 2025"
-heroImage: /OvernightAIEducator_MM.png
+heroImage: ""
 ---
 
 Get ready to revolutionize your teaching in just one day. In The Overnight AI Educator: Transform Your Course in 24 Hours, Clinical Professor Matthew Metzgar, PhD, distills years of cutting-edge research and real-world classroom experience into a lightning-fast, five-step cycle. You’ll learn how to identify the future-focused skills your students need, design AI-resilient assessments, craft engaging learning experiences, and deploy smart feedback loops—all without writing a line of code. Whether you’re a tech skeptic or an AI enthusiast, this book shows you how to harness AI as your strategic partner, freeing you to focus on what matters most: human-centered teaching that inspires curiosity, creativity, and deep learning.

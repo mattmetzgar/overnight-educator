@@ -2,7 +2,7 @@
 title: "Introducing the Five-Step Cycle"
 description: "Five-Step Cycle"
 pubDate: "May 10 2025"
-heroImage: "/OvernightAIEducator_MM.png"
+heroImage: ""
 ---
 
 In today’s rapidly evolving educational landscape, instructors need a clear, actionable roadmap to integrate AI into their teaching practice—and the Five-Step Cycle from The Overnight AI Educator delivers just that.
