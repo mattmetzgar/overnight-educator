@@ -1,0 +1,1 @@
+heroImage: z.string().optional(),
